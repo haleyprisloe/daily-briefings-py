@@ -13,6 +13,7 @@ requests
 sendgrid==6.6.0
 
 Flask
+gunicorn
 
 #
 # TEST
